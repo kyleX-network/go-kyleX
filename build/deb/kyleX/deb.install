@@ -1,0 +1,5 @@
+build/bin/{{.BinaryName}} usr/bin
+{{- if eq .BinaryName "gkyle" }}
+build/deb/kyleX/completions/bash/gkyle etc/bash_completion.d
+build/deb/kyleX/completions/zsh/_gkyle usr/share/zsh/vendor-completions
+{{end -}}
