@@ -1,0 +1,36 @@
+{
+  "gasLimit": "0x0",
+  "difficulty": "0x0",
+  "alloc": {
+    "0x5143526417b1ac32b2fac82caea7cae64a38ca68": {
+      "balance": "100000"
+    },
+    "0x2a600ed527036e411503d37d010ded9bddd712a1": {
+      "balance": "100000"
+    },
+    "0x2113dc2cd3c3391908cc6f788d8924795b8054ac": {
+      "balance": "100000"
+    },
+    "0xc781aa80862dab494d3b08ad945ecbc6fd499d79": {
+      "balance": "100000"
+    },
+    "0xece1bdb0d54dea54941cd07e42b1fbe75470dd08": {
+      "balance": "100000"
+    },
+    "0x3088af041bd78d19bf19dca0747c95dd5dc960eb": {
+      "balance": "100000"
+    },
+    "0x298c11aef4658116cf6be4870f640fa0f1a89ec5": {
+      "balance": "100000"
+    },
+    "0xc0fb54c6be9d7084c43af4f1ba8fb1005e49458e": {
+      "balance": "100000"
+    },
+    "0xa75b900bee42b13ee710240ce0191cb273633c5f": {
+      "balance": "100000"
+    },
+    "0x2711cfad9126a21091ca94e15df4d45df82534e7": {
+      "balance": "100000"
+    }
+  }
+}
